@@ -1,0 +1,20 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "mocha": "mocha",
+    "test": "nyc --reporter=text-summary --reporter=lcov --reporter=html mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.0.2",
+    "faker": "^4.1.0",
+    "mocha": "^3.4.2",
+    "nyc": "^11.0.2",
+    "proxyquire": "^1.8.0",
+    "sinon": "^2.3.4"
+  }
+}
