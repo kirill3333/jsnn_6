@@ -1,5 +1,9 @@
 # Example project for JSNN #6
 
+## Video
+
+https://youtu.be/cgS3ggRM5C4
+
 ## Install
 
 run ```npm i``` to install all dependencies
